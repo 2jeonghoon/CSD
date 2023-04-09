@@ -1,0 +1,14 @@
+Time: 2023-04-08 09:20:08 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-04-08 09:21:32 Here: add.php Message : 추가 화면 접속
+Time: 2023-04-08 09:21:52 Here: addSQL.php Message : 식당 (가우)을 등록하지 못했습니다.
+Time: 2023-04-08 09:21:52 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-04-08 09:22:15 Here: add.php Message : 추가 화면 접속
+Time: 2023-04-08 09:22:29 Here: addSQL.php Message : 식당 (더함께식탁 상명대본점)을 등록하지 못했습니다.
+Time: 2023-04-08 09:22:36 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-04-08 09:22:45 Here: add.php Message : 추가 화면 접속
+Time: 2023-04-08 09:22:51 Here: addSQL.php Message : 식당 (더함께식탁 상명대본점)을 등록했습니다.
+Time: 2023-04-08 09:22:51 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-04-08 09:22:57 Here: delete.php Message : 제거 화면 접속
+Time: 2023-04-08 09:23:00 Here: deleteSQL.php Message : 식당 (1803795233)삭제에 성공하였습니다.
+Time: 2023-04-08 09:26:19 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-04-08 09:27:34 Here: MapMain.php Message : 메인 화면 접속

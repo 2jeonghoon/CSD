@@ -29,7 +29,7 @@
                 <link rel="stylesheet" href="style.css">
 	</head>
 <body onLoad="showMessage( '<?php echo $_POST['message'];?>' );">
-	<!--메뉴바--!>
+	<!--메뉴바-->
         <nav class="menubar">
 	   <ul class="menu">
 	     <li><a href="MapMain.php"><h1 class="logo">Epula</h1></a></li>
@@ -39,7 +39,7 @@
            </ul>
         </nav> 
 
-        <!--검색창--!>
+        <!--검색창-->
 	<section>
           <div id="searchbox">
 	    <h2>오늘 뭐 먹지?</h2>
@@ -50,7 +50,7 @@
 	  </div>
 	</section>
 
-        <!--맛집 나열창--!>
+        <!--맛집 나열창-->
         <section>
          <div id="storebox">
           <input type="button" value="식당 제거하기" onClick="javascript:move( './delete.php' );">
